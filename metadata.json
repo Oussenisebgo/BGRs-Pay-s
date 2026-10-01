@@ -1,0 +1,6 @@
+{
+  "name": "BGR Pay",
+  "description": "Portefeuille Web3 fintech, swaps de tokens, paiements marchands, cashback et tap-to-mine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
